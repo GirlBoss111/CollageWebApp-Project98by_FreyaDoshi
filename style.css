@@ -1,0 +1,22 @@
+h1 {
+    color: midnightblue;
+    font-size: 50;
+    font-family: unset;
+}
+
+h4 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3 {
+    font-family: initial;
+}
+
+button{
+    color: indigo;
+}
+
+label{
+    font-family: monospace;
+    font-weight: 25;
+}
